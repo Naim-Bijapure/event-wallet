@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Rhino at EDCON: Rhino talk title",
+    "description": "Rhino at EDCON: Rhino talk title",
+    "image": "ipfs://QmYCudaobFz15UU87NhxLNoaCpUqgYJfCFW5tMxnrZfBQS",
+    "attributes": [
+      {
+        "trait_type": "speaker",
+        "value": "Rhino"
+      },
+      {
+        "trait_type": "talk",
+        "value": "Rhino talk title"
+      }
+    ]
+  },
+  {
+    "name": "Zebra at EDCON: Zebra talk title",
+    "description": "Zebra at EDCON: Zebra talk title",
+    "image": "ipfs://QmNgqG17PyZxTqAG8E6SJzEMUMF5N3LcW7AH6FoXLkTXg1",
+    "attributes": [
+      {
+        "trait_type": "speaker",
+        "value": "Zebra"
+      },
+      {
+        "trait_type": "talk",
+        "value": "Zebra talk title"
+      }
+    ]
+  },
+  {
+    "name": "Buffalo at EDCON: Buffalo talk title",
+    "description": "Buffalo at EDCON: Buffalo talk title",
+    "image": "ipfs://QmVhDiHwAemsa8ucn7kwrb9stRMvfThLsQyfeQgtJtX6yW",
+    "attributes": [
+      {
+        "trait_type": "speaker",
+        "value": "Buffalo"
+      },
+      {
+        "trait_type": "talk",
+        "value": "Buffalo talk title"
+      }
+    ]
+  }
+]
